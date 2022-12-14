@@ -1,0 +1,42 @@
+body{
+    background-color: blueviolet;
+  background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+}
+
+button{
+color: black;   
+background-color: yellow; 
+font-size: x-large;
+margin-left: 100px;
+box-shadow: 5px 5px black;
+
+}
+button:hover{
+    background-color: cornflowerblue;
+}
+input{
+    color: black;
+    background-color: deeppink;
+    width: 350px;
+    height: 40px;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: monospace;
+    box-shadow: 5px 5px black;
+}
+ul{
+    color: blue;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    text-align: center;
+    margin-top: 60px;
+}
+fieldset{
+    margin-top: 100px;
+}
+h2{
+    color: blue;
+    text-align: center;
+}
